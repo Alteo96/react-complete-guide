@@ -3,10 +3,10 @@ import ExpenseItem from "./components/ExpenseItem";
 function App() {
   return (
     <div>
-      <h2>Let's get started</h2>
-      <ExpenseItem></ExpenseItem>
+      <h1>Let's get started</h1>
+      <ExpenseItem></ExpenseItem >
     </div>
-  );
+  )
 }
 
 export default App;
